@@ -1,6 +1,6 @@
 # CIT Minor GitHub Page
 ### CIT 281
-```markdown
+
 # [Project 1](https://uo-cit-bradyr57.github.io/cit281-p1)
 Description:
 The first project got us familiar with the Command Line, and how to navigate around it. On top of that, we used Node.js to return a random string. 
@@ -50,4 +50,4 @@ This lab combined node-fetch and fastify to fetch JSON images.
 # [Lab 9](https://uo-cit-bradyr57.github.io/cit281-lab9/)
 Description:
 This lab walked us through how to create a release based workflow.
-```
+
