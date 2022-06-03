@@ -18,35 +18,35 @@ Description:
 This project created a monster game using classes. When the game started, the monsters would lose life randomly until they were fully drained. 
 # [Project 6](https://uo-cit-bradyr57.github.io/cit281-p6/)
 Description:
-
+This project created a shape class, as well as two child classes, rectangle and triangle. With these classes, they answered different questions about perimeter values. 
 # [Project 7](https://uo-cit-bradyr57.github.io/cit281-p7/)
 Description:
-
+This project focused on GitHub, and creating a portfolio landing page for our projects.
 
 # [Lab 1](https://uo-cit-bradyr57.github.io/cit281-lab1/)
 Description:
-
+This lab helped us set up and understand the software tools needed to perform the class. 
 # [Lab 2](https://uo-cit-bradyr57.github.io/cit281-lab2/)
 Description:
-
+This lab got us familiar with git and its different commands. 
 # [Lab 3](https://uo-cit-bradyr57.github.io/cit281-lab3/)
 Description:
-
+This lab gave us a list of different task involving, and not limited too, refactoring and object restructuring. 
 # [Lab 4](https://uo-cit-bradyr57.github.io/cit281-lab4/)
 Description:
-
+This lab helped us with Fastify, and creating different routes to be tested
 # [Lab 5](https://uo-cit-bradyr57.github.io/cit281-lab5/)
 Description:
-
+This lab introduced us to Postman and learning how to use it with our node.js.
 # [Lab 6](https://uo-cit-bradyr57.github.io/cit281-lab6/)
 Description:
-
+This lab introduced us to GitHub, as well as creating a class about Books.
 # [Lab 7](https://uo-cit-bradyr57.github.io/cit281-lab1/)
 Description:
-
+This lab introduce us to GitHub repositories and organization.
 # [Lab 8](https://uo-cit-bradyr57.github.io/cit281-lab8/)
 Description:
-
+This lab combined node-fetch and fastify to fetch JSON images. 
 # [Lab 9](https://uo-cit-bradyr57.github.io/cit281-lab9/)
 Description:
-
+This lab walked us through how to create a release based workflow.
