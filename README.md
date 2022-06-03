@@ -10,7 +10,7 @@ In this project we had to refactor code and commit our changes to git.
 # [Project 3](https://uo-cit-bradyr57.github.io/cit281-p3/)
 Description:
 We created multiple functions to calculate values of the coin object. With that code, we used fastify to display the "server" code.
-# [Project 4](https://uo-cit-bradyr57.github.io/cit281-p3/)
+# [Project 4](https://uo-cit-bradyr57.github.io/cit281-p4/)
 Description:
 I created questions and answers and uploaded them using REST API. Using the code module and answers, we tested the code module code. 
 # [Project 5](https://uo-cit-bradyr57.github.io/cit281-p5/)
@@ -41,7 +41,7 @@ This lab introduced us to Postman and learning how to use it with our node.js.
 # [Lab 6](https://uo-cit-bradyr57.github.io/cit281-lab6/)
 Description:
 This lab introduced us to GitHub, as well as creating a class about Books.
-# [Lab 7](https://uo-cit-bradyr57.github.io/cit281-lab1/)
+# [Lab 7](https://uo-cit-bradyr57.github.io/cit281-lab7/)
 Description:
 This lab introduce us to GitHub repositories and organization.
 # [Lab 8](https://uo-cit-bradyr57.github.io/cit281-lab8/)
