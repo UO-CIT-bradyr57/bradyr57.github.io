@@ -1,5 +1,5 @@
 # CIT Minor GitHub Page
-CIT 281
+### CIT 281
 
 # [Project 1](https://uo-cit-bradyr57.github.io/cit281-p1)
 Description:
