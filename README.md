@@ -1,5 +1,5 @@
-# bradyr57.github.io
-CIT Minor GitHub Page
+# CIT Minor GitHub Page
+CIT 281
 
 # Project 1
 # Project 2
