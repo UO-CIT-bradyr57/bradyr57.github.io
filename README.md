@@ -1,7 +1,7 @@
 # CIT Minor GitHub Page
 ### CIT 281
 
-![image](https://unsplash.com/photos/95YRwf6CNw8)
+![github-page](https://user-images.githubusercontent.com/105069118/171969490-4afcbfed-5a65-4e70-9b8a-e833dedc0c6d.png)
 
 # [Project 1](https://uo-cit-bradyr57.github.io/cit281-p1)
 Description:
