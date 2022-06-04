@@ -1,6 +1,8 @@
 # CIT Minor GitHub Page
 ### CIT 281
 
+![image](https://unsplash.com/photos/95YRwf6CNw8)
+
 # [Project 1](https://uo-cit-bradyr57.github.io/cit281-p1)
 Description:
 The first project got us familiar with the Command Line, and how to navigate around it. On top of that, we used Node.js to return a random string. 
